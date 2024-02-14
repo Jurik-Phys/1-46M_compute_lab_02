@@ -5,7 +5,6 @@
 #include <cmath>
 #include <ctime>
 #include <iostream>
-#include <gsl/gsl_matrix.h>
 #include <gsl/gsl_blas.h>
 #include <gsl/gsl_spblas.h>
 
